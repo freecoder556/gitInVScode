@@ -22,5 +22,6 @@ class Situation {
 }
 
 function add()
+function bring()
 
 
