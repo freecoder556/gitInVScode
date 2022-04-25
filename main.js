@@ -3,6 +3,8 @@ const obj = {
   age: 12
 }
 
+const num = 13;
+
 export {
   obj
 }
