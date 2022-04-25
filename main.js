@@ -21,6 +21,6 @@ class Situation {
   }
 }
 
-function add()
+
 
 
