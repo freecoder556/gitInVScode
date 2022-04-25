@@ -21,16 +21,6 @@ class Situation {
   }
 }
 
-class Person extends Situation {
-  int name;
-  int age;
-  constructor(name, age, where, doing, tool) {
-    this.super(where, doing, tool);
-    this.name = name;
-    this.age = age;
-  }
-  public void printDoing() {
-    输出句子
-  }
-}
+function add()
+
 
