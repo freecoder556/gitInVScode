@@ -23,4 +23,4 @@ class Situation {
 
 function bring()
 
-
+console.log("测试从git上pull代码");
